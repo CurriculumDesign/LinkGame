@@ -1,0 +1,2 @@
+# LOL_LinkGame
+Android平台实现的一个有关LOL主题的练练看小游戏
