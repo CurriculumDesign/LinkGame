@@ -5,15 +5,9 @@ Android平台实现的一个有关LOL主题的练练看小游戏
 
 基本算法取材自《疯狂Android》一书
 
-同时增加了背景音乐盒触发音效
+同时增加了背景音乐和触发音效
 
 可直接下载apk查看效果
-
-==========================
-<a>
-  <img src="https://github.com/msandroid/LinkGame/blob/master/screenshot.jpg"/>
-</a>
-
 
 *********************************************
 	Android版	LOL 连连看
@@ -29,6 +23,14 @@ Android平台实现的一个有关LOL主题的练练看小游戏
 五，反馈地址：1820326202@qq.com
 
 **********************************************
+
+==========================
+<a>
+  <img src="https://github.com/msandroid/LinkGame/blob/master/screenshot.jpg" width="180"/>
+</a>
+
+
+
 License
 --------
 
