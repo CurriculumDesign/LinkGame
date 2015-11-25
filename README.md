@@ -26,7 +26,7 @@ Android平台实现的一个有关LOL主题的练练看小游戏
 
 ==========================
 <a>
-  <img src="https://github.com/msandroid/LinkGame/blob/master/screenshot.jpg" width="180"/>
+  <img src="https://github.com/msandroid/LinkGame/blob/master/screenshot.jpg" width="400"/>
 </a>
 
 
