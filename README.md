@@ -1,5 +1,5 @@
 # LinkGame
-Android平台实现的一个有关LOL主题的练练看小游戏
+Android平台实现的一个有关LOL主题的连连看小游戏
 
 ## 说明：
 
